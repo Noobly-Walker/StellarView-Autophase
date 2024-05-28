@@ -11,7 +11,7 @@ This serves as a tool for developers of [StellarView](https://github.com/Povstal
    - Prefix a planet texture's name with c_ if you want to manually create either *_phases.png or *.halo_phases.png, in case your planet has rings or an odd shape.
 6. Move the planet_phases\ directory into your StellarView fork, to src\main\resources\assets\stellarview\textures\environment\
 
-## How to Use - Drop-in Tool
+## How to Use - Drop-in
 1. Download Autophase.EXE
 2. Drop the file into your StellarView fork, into src\main\resources\assets\stellarview\textures\environment\
 3. Run Autophase.EXE. It will tell you to press Enter to begin generation, but hold off.
